@@ -1,0 +1,32 @@
+[
+  {
+    "userId": "U101",
+    "name": "Alice Johnson",
+    "age": 28,
+    "address": "456 Elm Street, Springfield"
+  },
+  {
+    "userId": "U102",
+    "name": "Bob Smith",
+    "age": 34,
+    "address": "789 Maple Avenue, Greenfield"
+  },
+  {
+    "userId": "U103",
+    "name": "Charlie Brown",
+    "age": 25,
+    "address": "123 Oak Lane, Rivertown"
+  },
+  {
+    "userId": "U104",
+    "name": "Diana Prince",
+    "age": 31,
+    "address": "987 Pine Drive, Metropolis"
+  },
+  {
+    "userId": "U105",
+    "name": "Ethan Hunt",
+    "age": 40,
+    "address": "321 Birch Road, Harbor City"
+  }
+]
